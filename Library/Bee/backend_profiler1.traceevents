@@ -1,0 +1,608 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1656622001027606, "dur":929, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622001028541, "dur":92, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1656622001028692, "dur":34, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1656622001028728, "dur":942, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1656622001029696, "dur":663, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622001030359, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002126876, "dur":561, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127437, "dur":37, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127474, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127478, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127492, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127495, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127505, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127508, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127518, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127520, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127529, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127532, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127542, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127544, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127553, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127556, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127570, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127573, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127584, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127586, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127595, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127598, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127607, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127610, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127619, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127621, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127630, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127632, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127642, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127644, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127653, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127656, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127665, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127691, "dur":3, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002127723, "dur":2023, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1656622001029936, "dur":528, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656622001030464, "dur":6336, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656622001036801, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1656622001036989, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656622001040502, "dur":16618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1656622001057203, "dur":215034, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/UnityPlayer_Win64_player_development_mono_x64.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1656622001272246, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656622001272257, "dur":85784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/UnityPlayer_Win64_player_development_mono_x64.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1656622001358092, "dur":112476, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656622001470574, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656622001470587, "dur":16270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656622001486906, "dur":161122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656622001648035, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656622001648048, "dur":1574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656622001649695, "dur":1322, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656622001651027, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656622001651041, "dur":1563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656622001652651, "dur":76751, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656622001729409, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656622001729421, "dur":2058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656622001731525, "dur":245773, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656622001977305, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1656622001977316, "dur":1757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1656622001979105, "dur":147780, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656622001029404, "dur":984, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656622001030393, "dur":6342, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656622001036756, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1656622001036758, "dur":209, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656622001036973, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1656622001036976, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656622001038165, "dur":9971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1656622001048142, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1656622001048344, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656622001048355, "dur":349166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1656622001397577, "dur":67368, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656622001467923, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656622001467943, "dur":19683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656622001487679, "dur":123438, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656622001611126, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656622001611142, "dur":5650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656622001616856, "dur":272717, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656622001889583, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1656622001889599, "dur":2374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1656622001892017, "dur":234888, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656622001029463, "dur":935, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656622001030398, "dur":6379, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656622001036778, "dur":288, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1656622001037097, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656622001042122, "dur":16783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1656622001059159, "dur":47775, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port.exe" }}
+,{ "pid":12345, "tid":3, "ts":1656622001106946, "dur":7, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656622001106962, "dur":57585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port.exe" }}
+,{ "pid":12345, "tid":3, "ts":1656622001164602, "dur":52536, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001217146, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656622001217158, "dur":6373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001223578, "dur":23256, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001246843, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656622001246857, "dur":1549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001248457, "dur":43221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001291691, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656622001291709, "dur":4216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001295976, "dur":26486, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001322472, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656622001322486, "dur":3250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001325809, "dur":62282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001388100, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656622001388115, "dur":4095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001392264, "dur":27606, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001419880, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656622001419930, "dur":8378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001428364, "dur":25563, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001453936, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656622001453950, "dur":1686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001455685, "dur":160434, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001616124, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656622001616132, "dur":9859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001626063, "dur":25357, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Scheduler.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1656622001651425, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656622001651437, "dur":2558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Scheduler.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1656622001654043, "dur":13139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Environments.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1656622001667191, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656622001667203, "dur":2234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Environments.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1656622001669483, "dur":1541, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001671031, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656622001671044, "dur":7057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001678151, "dur":55781, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001733941, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656622001733954, "dur":1350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001735349, "dur":263683, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622001999039, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1656622001999051, "dur":2969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1656622002002052, "dur":124810, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656622001029579, "dur":835, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656622001030415, "dur":6357, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656622001036773, "dur":17481, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1656622001054264, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656622001054299, "dur":2967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1656622001057321, "dur":475413, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1656622001532742, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656622001532754, "dur":43666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1656622001576453, "dur":110855, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1656622001687317, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656622001687331, "dur":2317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1656622001689690, "dur":184165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1656622001873863, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656622001873878, "dur":2241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1656622001876174, "dur":1115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1656622001877298, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656622001877311, "dur":1501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1656622001878858, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1656622001878903, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656622001878914, "dur":3093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1656622001882056, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1656622001882103, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656622001882114, "dur":2653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1656622001884826, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1656622001885020, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1656622001885032, "dur":1505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1656622001886577, "dur":240309, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656622001029627, "dur":796, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656622001030423, "dur":6346, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656622001036795, "dur":359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1656622001037158, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656622001043182, "dur":17543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1656622001060775, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1656622001060989, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656622001061451, "dur":111919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1656622001173417, "dur":30097, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656622001203523, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656622001203541, "dur":1493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656622001205085, "dur":28580, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656622001233673, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656622001233685, "dur":1895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656622001235636, "dur":185075, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656622001420722, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656622001420735, "dur":9480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656622001430255, "dur":28500, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656622001458760, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656622001458769, "dur":2703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656622001461652, "dur":148348, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656622001610004, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656622001610013, "dur":4561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656622001614628, "dur":178311, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656622001792946, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656622001792958, "dur":2027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656622001795029, "dur":123474, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656622001918512, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1656622001918526, "dur":2692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1656622001921265, "dur":205615, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656622001029694, "dur":737, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656622001030431, "dur":6319, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656622001036756, "dur":47080, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1656622001083845, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656622001162101, "dur":2990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1656622001165149, "dur":27340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656622001192499, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656622001192515, "dur":7698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656622001200280, "dur":63999, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656622001264288, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656622001264301, "dur":3386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656622001267743, "dur":152313, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656622001420063, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656622001420074, "dur":9359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656622001429746, "dur":28937, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656622001458690, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656622001458703, "dur":2716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656622001461469, "dur":148371, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656622001609847, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656622001609858, "dur":6558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656622001616474, "dur":36325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.TextMeshPro.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1656622001652806, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656622001652819, "dur":18151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.TextMeshPro.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1656622001671017, "dur":8347, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Configuration.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1656622001679374, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656622001679392, "dur":7949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Configuration.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1656622001687390, "dur":289747, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656622001977144, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1656622001977156, "dur":4331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1656622001981533, "dur":145323, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1656622001030324, "dur":190, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1656622001030514, "dur":6252, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1656622001036770, "dur":13526, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1656622001050301, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1656622001050323, "dur":1355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1656622001051726, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1656622001051914, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1656622001051928, "dur":3809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1656622001055792, "dur":15943, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/WindowsPlayer_player_Release_mono_x64.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1656622001071755, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1656622001071769, "dur":91903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/WindowsPlayer_player_Release_mono_x64.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1656622001163735, "dur":30251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1656622001193996, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1656622001194011, "dur":7426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1656622001201481, "dur":62830, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1656622001264316, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1656622001264908, "dur":14878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1656622001279832, "dur":50492, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1656622001330334, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1656622001330349, "dur":1582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1656622001332008, "dur":26660, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1656622001358677, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1656622001358690, "dur":1473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1656622001360215, "dur":54750, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1656622001414975, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1656622001414988, "dur":9880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1656622001424931, "dur":29810, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1656622001454751, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1656622001454766, "dur":3438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1656622001458252, "dur":28117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1656622001486377, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1656622001486392, "dur":5961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1656622001492400, "dur":131913, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.VisualScripting.State.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1656622001624321, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1656622001624333, "dur":2225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.VisualScripting.State.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1656622001626599, "dur":40759, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":7, "ts":1656622001667364, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1656622001667374, "dur":2037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":7, "ts":1656622001669463, "dur":7942, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Device.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1656622001677412, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1656622001677425, "dur":5172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Device.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1656622001682641, "dur":135521, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1656622001818168, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1656622001818181, "dur":5748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1656622001823973, "dur":299528, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1656622002123507, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1656622002123515, "dur":3268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1656622002126811, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":7, "ts":1656622002126813, "dur":6, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1656622001029818, "dur":620, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1656622001030439, "dur":6376, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1656622001036816, "dur":588, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1656622001037410, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1656622001056189, "dur":106067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1656622001162308, "dur":26949, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1656622001189267, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1656622001189456, "dur":1424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1656622001190943, "dur":29319, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1656622001220272, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1656622001220287, "dur":3012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1656622001223359, "dur":88031, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1656622001311399, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1656622001311430, "dur":2917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1656622001314396, "dur":30390, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1656622001344797, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1656622001344812, "dur":2695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1656622001347563, "dur":51705, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1656622001399277, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1656622001399292, "dur":1584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1656622001400940, "dur":208614, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1656622001609559, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1656622001609568, "dur":2154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1656622001611773, "dur":103722, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1656622001715503, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1656622001715519, "dur":1993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1656622001717556, "dur":36383, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1656622001753946, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1656622001753959, "dur":1167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1656622001755165, "dur":152268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1656622001907443, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1656622001907458, "dur":2689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1656622001910192, "dur":216674, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1656622001029869, "dur":578, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1656622001030447, "dur":6340, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1656622001036788, "dur":18157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1656622001054951, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1656622001054981, "dur":3788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1656622001058849, "dur":126821, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":9, "ts":1656622001185677, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1656622001185688, "dur":2504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":9, "ts":1656622001188250, "dur":30360, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1656622001218617, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1656622001218632, "dur":6065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1656622001224742, "dur":67658, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1656622001292408, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1656622001292422, "dur":6167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1656622001298649, "dur":60917, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1656622001359577, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1656622001359591, "dur":1910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1656622001361553, "dur":60261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1656622001421823, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1656622001421838, "dur":7065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1656622001428953, "dur":178605, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1656622001607566, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1656622001607579, "dur":2090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1656622001609716, "dur":51715, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.VisualScripting.Core.pdb" }}
+,{ "pid":12345, "tid":9, "ts":1656622001661435, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1656622001661444, "dur":2595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.VisualScripting.Core.pdb" }}
+,{ "pid":12345, "tid":9, "ts":1656622001664096, "dur":2628, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":9, "ts":1656622001666734, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1656622001666750, "dur":1739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":9, "ts":1656622001668541, "dur":32981, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1656622001701530, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1656622001701542, "dur":1321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1656622001702905, "dur":46393, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":9, "ts":1656622001749306, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1656622001749321, "dur":5601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":9, "ts":1656622001754966, "dur":76022, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1656622001830997, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1656622001831014, "dur":1469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1656622001832529, "dur":226962, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":9, "ts":1656622002059499, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1656622002059513, "dur":1590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":9, "ts":1656622002061131, "dur":65769, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1656622001029920, "dur":535, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1656622001030456, "dur":6358, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1656622001036815, "dur":10181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1656622001047004, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1656622001047127, "dur":1287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1656622001048459, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":10, "ts":1656622001048587, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1656622001048597, "dur":14946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":10, "ts":1656622001063612, "dur":97973, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1656622001161594, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1656622001162036, "dur":2630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1656622001164706, "dur":53584, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1656622001218298, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1656622001218312, "dur":6612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1656622001225217, "dur":175903, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1656622001401125, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1656622001401138, "dur":2557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1656622001403744, "dur":211163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1656622001614914, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1656622001614927, "dur":6785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1656622001621791, "dur":62094, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":10, "ts":1656622001683894, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1656622001683907, "dur":4141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":10, "ts":1656622001688097, "dur":89837, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1656622001777942, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1656622001777954, "dur":5748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1656622001783744, "dur":172947, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1656622001956698, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1656622001956709, "dur":1652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1656622001958410, "dur":168460, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1656622001029526, "dur":881, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1656622001030408, "dur":6373, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1656622001036782, "dur":13582, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1656622001050369, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1656622001050411, "dur":1274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1656622001051727, "dur":114868, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1656622001166605, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1656622001167324, "dur":3360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1656622001170737, "dur":47075, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1656622001217820, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1656622001217836, "dur":6587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1656622001224492, "dur":50128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1656622001274629, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1656622001274644, "dur":21728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1656622001296513, "dur":66919, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1656622001363451, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1656622001363466, "dur":1993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1656622001365509, "dur":99210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1656622001464730, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1656622001464746, "dur":5529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1656622001470325, "dur":139212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1656622001609548, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1656622001609561, "dur":2315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1656622001611922, "dur":72461, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1656622001684391, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1656622001684403, "dur":5174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1656622001689628, "dur":128066, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":11, "ts":1656622001817701, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1656622001817714, "dur":2683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":11, "ts":1656622001820558, "dur":56732, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":11, "ts":1656622001877297, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1656622001877312, "dur":1508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":11, "ts":1656622001878863, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/resources.assets" }}
+,{ "pid":12345, "tid":11, "ts":1656622001878907, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1656622001878915, "dur":1983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/resources.assets" }}
+,{ "pid":12345, "tid":11, "ts":1656622001880945, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1656622001880988, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1656622001880998, "dur":1407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1656622001882467, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1656622001882548, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1656622001882559, "dur":3519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1656622001886129, "dur":240731, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1656622001030023, "dur":454, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1656622001030477, "dur":6315, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1656622001036797, "dur":282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1656622001037091, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1656622001040993, "dur":443432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1656622001484478, "dur":131451, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1656622001615935, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1656622001615947, "dur":5367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1656622001621368, "dur":28211, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Telemetry.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1656622001649586, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1656622001649603, "dur":1797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Telemetry.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1656622001651443, "dur":10384, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Internal.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1656622001661833, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1656622001661845, "dur":2236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Internal.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1656622001664137, "dur":24243, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":12, "ts":1656622001688390, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1656622001688410, "dur":2583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":12, "ts":1656622001691038, "dur":163137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1656622001854182, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1656622001854194, "dur":2117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1656622001856351, "dur":9166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Assembly-CSharp.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1656622001865524, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1656622001865535, "dur":1589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Assembly-CSharp.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1656622001867171, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":12, "ts":1656622001867216, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1656622001867262, "dur":3797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":12, "ts":1656622001871109, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":12, "ts":1656622001871160, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1656622001871171, "dur":2619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":12, "ts":1656622001873838, "dur":200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":12, "ts":1656622001874043, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1656622001874052, "dur":5177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":12, "ts":1656622001879312, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/level0.resS" }}
+,{ "pid":12345, "tid":12, "ts":1656622001879402, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1656622001879411, "dur":6224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/level0.resS" }}
+,{ "pid":12345, "tid":12, "ts":1656622001885695, "dur":241201, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001030087, "dur":399, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001030486, "dur":6333, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001036820, "dur":16386, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1656622001053214, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001053238, "dur":1488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1656622001054785, "dur":162460, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":13, "ts":1656622001217251, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001217383, "dur":9405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":13, "ts":1656622001226859, "dur":7677, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UI.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1656622001234544, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001234556, "dur":1752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UI.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1656622001236354, "dur":28217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1656622001264815, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001264829, "dur":1773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1656622001266662, "dur":49562, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1656622001316234, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001316252, "dur":2292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1656622001318597, "dur":28411, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1656622001347016, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001347030, "dur":2016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1656622001349096, "dur":54294, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1656622001403399, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001403415, "dur":2992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1656622001406473, "dur":48271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1656622001454751, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001454766, "dur":3409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1656622001458228, "dur":37790, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1656622001496026, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001496077, "dur":4604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1656622001500734, "dur":114852, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.VisualScripting.Flow.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1656622001615596, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001615612, "dur":5034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.VisualScripting.Flow.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1656622001620691, "dur":2660, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":13, "ts":1656622001623359, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001623372, "dur":3213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":13, "ts":1656622001626626, "dur":16933, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Registration.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1656622001643568, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001643582, "dur":1939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Registration.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1656622001645567, "dur":15629, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1656622001661204, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001661218, "dur":2310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1656622001663580, "dur":13125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Environments.Internal.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1656622001676714, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001676729, "dur":4753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Environments.Internal.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1656622001681527, "dur":9838, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Analytics.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1656622001691373, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001691387, "dur":1481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Analytics.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1656622001692915, "dur":102581, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":13, "ts":1656622001795503, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001795540, "dur":1471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":13, "ts":1656622001797055, "dur":66241, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Newtonsoft.Json.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1656622001863304, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001863317, "dur":1890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Newtonsoft.Json.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1656622001865260, "dur":110720, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":13, "ts":1656622001975987, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1656622001975998, "dur":1443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":13, "ts":1656622001977478, "dur":149376, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1656622001030135, "dur":359, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1656622001030494, "dur":6265, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1656622001036768, "dur":302, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":14, "ts":1656622001037089, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1656622001040571, "dur":17898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":14, "ts":1656622001058519, "dur":114779, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/UnityCrashHandler64.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1656622001173305, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1656622001173315, "dur":2604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/UnityCrashHandler64.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1656622001175971, "dur":119883, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1656622001295863, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1656622001295876, "dur":3159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1656622001299078, "dur":40486, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1656622001339578, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1656622001339594, "dur":6113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1656622001345766, "dur":70249, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1656622001416055, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1656622001416069, "dur":12463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1656622001429944, "dur":42735, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":14, "ts":1656622001472687, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1656622001472702, "dur":14896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":14, "ts":1656622001487652, "dur":125314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1656622001612973, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1656622001612985, "dur":4108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1656622001617162, "dur":52529, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Threading.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1656622001671376, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1656622001671388, "dur":10590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Threading.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1656622001682024, "dur":1204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1656622001683236, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1656622001683251, "dur":11346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1656622001694643, "dur":121032, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":14, "ts":1656622001815684, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1656622001815697, "dur":1992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":14, "ts":1656622001817735, "dur":139493, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":14, "ts":1656622001957235, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1656622001957247, "dur":2261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":14, "ts":1656622001959555, "dur":167313, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1656622001030190, "dur":310, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1656622001030500, "dur":6283, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1656622001036787, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1656622001036975, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1656622001039717, "dur":15249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1656622001055033, "dur":106776, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/WinPixEventRuntime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1656622001161814, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1656622001161825, "dur":2798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/WinPixEventRuntime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1656622001164677, "dur":49677, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1656622001214365, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1656622001214380, "dur":1572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1656622001215994, "dur":94295, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1656622001310299, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1656622001310319, "dur":1617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1656622001311985, "dur":101842, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1656622001413835, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1656622001413849, "dur":10727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1656622001424639, "dur":22781, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1656622001447431, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1656622001447444, "dur":1542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1656622001449032, "dur":179242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1656622001628285, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1656622001628299, "dur":3048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1656622001631399, "dur":46261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":15, "ts":1656622001677666, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1656622001677676, "dur":33258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":15, "ts":1656622001710980, "dur":153219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":15, "ts":1656622001864209, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1656622001864222, "dur":1611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":15, "ts":1656622001865880, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":15, "ts":1656622001866050, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1656622001866667, "dur":1390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":15, "ts":1656622001868101, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1656622001868145, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1656622001868155, "dur":26416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1656622001894613, "dur":232260, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1656622001030253, "dur":254, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1656622001030507, "dur":6268, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1656622001036776, "dur":274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1656622001037090, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1656622001040186, "dur":352648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1656622001392885, "dur":53048, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1656622001445942, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1656622001445958, "dur":2790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1656622001448807, "dur":23948, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1656622001472761, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1656622001472773, "dur":19742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1656622001492563, "dur":117226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":16, "ts":1656622001609794, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1656622001609802, "dur":2983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":16, "ts":1656622001612835, "dur":32669, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Timeline.pdb" }}
+,{ "pid":12345, "tid":16, "ts":1656622001645509, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1656622001645775, "dur":2473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Timeline.pdb" }}
+,{ "pid":12345, "tid":16, "ts":1656622001648293, "dur":83535, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Networking.pdb" }}
+,{ "pid":12345, "tid":16, "ts":1656622001731835, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1656622001731847, "dur":1324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/Unity.Services.Core.Networking.pdb" }}
+,{ "pid":12345, "tid":16, "ts":1656622001733216, "dur":279242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":16, "ts":1656622002012464, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1656622002012473, "dur":2875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/katya/OneDrive/Desktop/Flight_02/s_port_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":16, "ts":1656622002015377, "dur":111499, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1656622002131665, "dur":2046, "ph":"X", "name": "ProfilerWriteOutput" }
+,
